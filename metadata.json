@@ -1,0 +1,6 @@
+{
+  "name": "Mondal Export Import",
+  "description": "ISO 9001:2015 certified Indian merchant exporter since 2017 of agricultural commodities, fresh fruits, fresh vegetables, and spices to global markets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

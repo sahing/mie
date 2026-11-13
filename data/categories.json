@@ -1,0 +1,34 @@
+[
+  {
+    "id": "agriculture",
+    "name": "Agricultural Products",
+    "shortName": "Agriculture",
+    "description": "We specialize in exporting premium quality agricultural products. From rice to grains, carefully selected and sourced for optimal quality for our clients.",
+    "image": "/products/2-1.webp",
+    "sortOrder": 1
+  },
+  {
+    "id": "spices",
+    "name": "Spices",
+    "shortName": "Spices",
+    "description": "Explore our vast range of spices including turmeric, red chilli and black pepper, all ensured for authenticity and freshness for every culinary need.",
+    "image": "/products/10-3.webp",
+    "sortOrder": 2
+  },
+  {
+    "id": "fruits",
+    "name": "Fresh Fruits",
+    "shortName": "Fruits",
+    "description": "We export fresh fruits carefully selected from trusted farms to ensure superior freshness, nutrition and international export quality.",
+    "image": "/products/9-2-1.webp",
+    "sortOrder": 3
+  },
+  {
+    "id": "vegetables",
+    "name": "Fresh Vegetables",
+    "shortName": "Vegetables",
+    "description": "We export fresh vegetables carefully selected from trusted farms to ensure superior freshness, nutrition and international export quality.",
+    "image": "/products/6-3-1.webp",
+    "sortOrder": 4
+  }
+]

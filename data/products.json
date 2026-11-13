@@ -1,0 +1,1037 @@
+[
+  {
+    "slug": "rice",
+    "name": "Rice",
+    "category": "agriculture",
+    "image": "/products/2-1.webp",
+    "gallery": [],
+    "shortDescription": "Rice is one of the world's most important staple foods, and India is among the largest producers and exporters of premium rice varieties.",
+    "description": "Rice is one of the world's most important staple foods, and India is among the largest producers and exporters of premium rice varieties. We supply Basmati and Non-Basmati rice sourced from Punjab, Haryana, Uttar Pradesh and West Bengal. Carefully processed, aged and packed under strict international food-safety standards for rich aroma, long grains and excellent taste. Packaging: 5 kg, 10 kg, 25 kg, 50 kg bags with private labelling. Min. order: 20–22 MT / 1 full truck / 1 full container. Backed by ISO, FSSAI and APEDA certifications. Highly demanded in the Middle East, Europe, Africa and Asia.",
+    "specs": {
+      "origin": "India (Punjab, Haryana, UP, West Bengal)",
+      "packaging": "5 kg, 10 kg, 25 kg, 50 kg bags",
+      "moq": "20–22 MT (1 full truck / 1 FCL)",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF / CFR (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "APEDA"],
+    "needsUniqueImage": false,
+    "featured": true,
+    "seo": {
+      "title": "Indian Basmati & Non-Basmati Rice Exporter | Mondal Export Import",
+      "description": "ISO, FSSAI & APEDA certified Indian rice exporter supplying aged Basmati and Non-Basmati rice in 5-50 kg private label bags globally."
+    }
+  },
+  {
+    "slug": "wheat",
+    "name": "Wheat",
+    "category": "agriculture",
+    "image": "/products/8-1.webp",
+    "gallery": [],
+    "shortDescription": "One of the world's most widely consumed cereals; India is a major exporter of premium-quality wheat varieties for flour milling and food.",
+    "description": "One of the world's most widely consumed cereals; India is a major exporter of premium-quality wheat varieties. Clean, graded grain suitable for flour milling and food industries. Packaging and minimum order quantity can be tailored to buyer specifications.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (25 kg / 50 kg PP bags)",
+      "moq": "TBC (Full Container / Bulk)",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF / CFR (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "APEDA"],
+    "needsUniqueImage": false,
+    "featured": true,
+    "seo": {
+      "title": "Indian Wheat Exporter | Graded Milling Wheat | Mondal Export Import",
+      "description": "Clean, graded Indian export-quality wheat suitable for flour milling and food processing industries worldwide."
+    }
+  },
+  {
+    "slug": "maize-corn",
+    "name": "Maize (Corn)",
+    "category": "agriculture",
+    "image": "/products/6-1-1.webp",
+    "gallery": [],
+    "shortDescription": "A versatile cereal grain used for human consumption, poultry/cattle feed and industrial processing, cleaned and graded for export.",
+    "description": "A versatile cereal grain used for human consumption, poultry/cattle feed and industrial processing. Sourced from trusted Indian growers, cleaned and graded for export.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (25 kg / 50 kg PP bags)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF / CFR (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "APEDA"],
+    "needsUniqueImage": false,
+    "featured": true,
+    "seo": {
+      "title": "Indian Maize (Corn) Exporter | Yellow Corn | Mondal Export Import",
+      "description": "Export-grade Indian maize for food, poultry/cattle feed, and industrial starch processing from Mondal Export Import."
+    }
+  },
+  {
+    "slug": "lentils",
+    "name": "Lentils",
+    "category": "agriculture",
+    "image": "/products/3-1-1.webp",
+    "gallery": [],
+    "shortDescription": "One of the most widely consumed pulses, valued for nutrition, affordability and versatility in export-grade quality.",
+    "description": "One of the most widely consumed pulses, valued for nutrition, affordability and versatility. Supplied in export-grade quality for retail and wholesale markets.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (Retail & Bulk bags)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "APEDA", "GPC Dubai"],
+    "needsUniqueImage": false,
+    "featured": true,
+    "seo": {
+      "title": "Indian Lentils Exporter | Export-Grade Pulses | Mondal Export Import",
+      "description": "Nutritious, cleaned, and graded Indian lentils exported globally by GPC member Mondal Export Import."
+    }
+  },
+  {
+    "slug": "deshi-chick-pulses",
+    "name": "Desi Chickpea (Chana) & Pulses",
+    "category": "agriculture",
+    "image": "/products/5.webp",
+    "gallery": [],
+    "shortDescription": "India is one of the largest producers and exporters of pulses; Desi Chickpea (Chana) is protein-rich, clean and sorted for export.",
+    "description": "India is one of the largest producers and exporters of pulses; Deshi Chickpea (Chana) is among the most popular. Protein-rich, clean and sorted for export.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (25 kg / 50 kg bags)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "APEDA", "GPC Dubai"],
+    "needsUniqueImage": false,
+    "featured": true,
+    "seo": {
+      "title": "Desi Chickpea (Chana) & Pulses Exporter India | Mondal Export Import",
+      "description": "Protein-rich, machine-cleaned Desi Chickpea (Chana) and Indian pulses for wholesale and retail export."
+    }
+  },
+  {
+    "slug": "groundnut-peanuts",
+    "name": "Groundnut (Peanuts)",
+    "category": "agriculture",
+    "image": "/products/groundnut-peanuts.jpg",
+    "gallery": [],
+    "shortDescription": "One of India's leading oilseeds and snack products. High-quality groundnuts for oil extraction, roasting and snack industries.",
+    "description": "One of India's leading oilseeds and snack products. We supply high-quality groundnuts for oil extraction, roasting and snack industries.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (Jute / Vacuum / PP bags)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "APEDA"],
+    "needsUniqueImage": false,
+    "featured": true,
+    "seo": {
+      "title": "Indian Groundnut (Peanuts) Exporter | Bold & Java | Mondal Export Import",
+      "description": "High-quality Indian groundnuts and peanuts supplied for oil extraction, roasting, and confectionery industries."
+    }
+  },
+  {
+    "slug": "seeds",
+    "name": "Seeds",
+    "category": "agriculture",
+    "image": "/products/2.webp",
+    "gallery": [],
+    "shortDescription": "Seeds form the foundation of agriculture, and India is recognised for high-quality seeds with excellent germination rates.",
+    "description": "Seeds form the foundation of agriculture, and India is recognised for high-quality seeds with excellent germination rates. Supplied for farming and commercial use.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "APEDA"],
+    "needsUniqueImage": false,
+    "featured": false,
+    "seo": {
+      "title": "Agricultural Seeds Exporter India | Mondal Export Import",
+      "description": "High-germination Indian agricultural and commercial seeds supplied for farming and cultivation."
+    }
+  },
+  {
+    "slug": "tree-plant",
+    "name": "Tree Plant",
+    "category": "agriculture",
+    "image": "/products/offerings-01.jpg",
+    "gallery": [],
+    "shortDescription": "Tree plants for landscaping, farming and environmental sustainability — fruit-bearing, ornamental and plantation saplings.",
+    "description": "Tree plants for landscaping, farming and environmental sustainability — a variety of fruit-bearing, ornamental and plantation saplings.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (Nursery-grade export crates)",
+      "moq": "TBC",
+      "privateLabel": false,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "APEDA"],
+    "needsUniqueImage": false,
+    "featured": false,
+    "seo": {
+      "title": "Tree Plants & Plantation Saplings Exporter | Mondal Export Import",
+      "description": "Fruit-bearing, ornamental, and plantation tree saplings exported from India for farming and landscaping."
+    }
+  },
+  {
+    "slug": "flower",
+    "name": "Flower",
+    "category": "agriculture",
+    "image": "/products/1-3.webp",
+    "gallery": [],
+    "shortDescription": "India is a leading producer of fresh and ornamental flowers, carefully harvested and packed to retain freshness.",
+    "description": "India is a leading producer of fresh and ornamental flowers for domestic and international markets. Carefully harvested and packed to retain freshness.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (Cold-chain floral boxes)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF Air Freight (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "APEDA"],
+    "needsUniqueImage": false,
+    "featured": false,
+    "seo": {
+      "title": "Fresh & Ornamental Flowers Exporter India | Mondal Export Import",
+      "description": "Freshly harvested ornamental flowers packed in temperature-controlled boxes for international export."
+    }
+  },
+  {
+    "slug": "garlic",
+    "name": "Garlic",
+    "category": "agriculture",
+    "image": "/products/9-1-1.webp",
+    "gallery": [],
+    "shortDescription": "Fresh Indian garlic with strong aroma and pungency, graded by size and packed for international export.",
+    "description": "Fresh Indian garlic with strong aroma and pungency, graded by size, packed for export.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (Mesh bags / Cartons)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "APEDA"],
+    "needsUniqueImage": false,
+    "featured": true,
+    "seo": {
+      "title": "Fresh Indian Garlic Exporter | Graded Bulbs | Mondal Export Import",
+      "description": "Aromatic, pungent fresh Indian garlic graded by bulb size and packed for sea and air export."
+    }
+  },
+  {
+    "slug": "ginger",
+    "name": "Ginger",
+    "category": "agriculture",
+    "image": "/products/ginger.jpg",
+    "gallery": [],
+    "shortDescription": "Fresh ginger with robust flavour, sourced from trusted Indian farms and packed to international export standards.",
+    "description": "Fresh ginger with robust flavour, sourced from trusted farms and packed to export standards.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (Ventilated cartons / Mesh bags)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "APEDA"],
+    "needsUniqueImage": false,
+    "featured": true,
+    "seo": {
+      "title": "Fresh Indian Ginger Exporter | Mondal Export Import",
+      "description": "Farm-fresh Indian ginger with bold aroma and flavour, cleaned and graded for international wholesale buyers."
+    }
+  },
+  {
+    "slug": "soybean-meal",
+    "name": "Soybean Meal",
+    "category": "agriculture",
+    "image": "/products/5.webp",
+    "gallery": [],
+    "shortDescription": "One of the most important protein sources for animal feed, poultry feed and aquaculture industries.",
+    "description": "One of the most important protein sources for animal feed, poultry feed and aquaculture industries.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (50 kg PP bags / Bulk)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "APEDA"],
+    "needsUniqueImage": true,
+    "featured": false,
+    "seo": {
+      "title": "Indian Soybean Meal Exporter | Animal & Poultry Feed | Mondal Export Import",
+      "description": "High-protein Indian soybean meal exported for poultry, cattle, and aquaculture feed manufacturing."
+    }
+  },
+  {
+    "slug": "rapeseed-meal",
+    "name": "Rapeseed Meal",
+    "category": "agriculture",
+    "image": "/products/14.webp",
+    "gallery": [],
+    "shortDescription": "Also called Mustard Meal — a protein-rich by-product used in cattle, poultry and fish feed.",
+    "description": "Also called Mustard Meal — a protein-rich by-product used in cattle, poultry and fish feed.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (50 kg PP bags / Bulk)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "APEDA"],
+    "needsUniqueImage": false,
+    "featured": false,
+    "seo": {
+      "title": "Indian Rapeseed Meal (Mustard Meal) Exporter | Mondal Export Import",
+      "description": "Protein-rich Indian rapeseed and mustard meal exported for livestock, poultry, and aquaculture feed."
+    }
+  },
+  {
+    "slug": "mustard-oil-cake",
+    "name": "Mustard Oil Cake",
+    "category": "agriculture",
+    "image": "/products/5-1-1.webp",
+    "gallery": [],
+    "shortDescription": "Also known as Sarson Khal — a highly nutritious by-product of mustard oil extraction, used in animal feed and organic fertiliser.",
+    "description": "Also known as Sarson Khal — a highly nutritious by-product of mustard oil extraction, used in animal feed and as organic fertiliser.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (50 kg bags)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "APEDA"],
+    "needsUniqueImage": false,
+    "featured": false,
+    "seo": {
+      "title": "Mustard Oil Cake (Sarson Khal) Exporter India | Mondal Export Import",
+      "description": "Nutritious Indian mustard oil cake (Sarson Khal) exported for cattle feed and organic agriculture."
+    }
+  },
+  {
+    "slug": "dorb-de-oiled-rice-bran",
+    "name": "DORB (De-Oiled Rice Bran)",
+    "category": "agriculture",
+    "image": "/products/12.webp",
+    "gallery": [],
+    "shortDescription": "Important cattle, poultry and fish feed ingredient obtained after oil extraction from rice bran.",
+    "description": "Important cattle, poultry and fish feed ingredient obtained after oil extraction from rice bran.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (50 kg PP bags / Bulk)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "APEDA"],
+    "needsUniqueImage": false,
+    "featured": false,
+    "seo": {
+      "title": "DORB (De-Oiled Rice Bran) Exporter India | Mondal Export Import",
+      "description": "Export-grade De-Oiled Rice Bran (DORB) from India for cattle, poultry, and aquaculture feed industries."
+    }
+  },
+  {
+    "slug": "wheat-bran",
+    "name": "Wheat Bran",
+    "category": "agriculture",
+    "image": "/products/12.webp",
+    "gallery": [],
+    "shortDescription": "Nutritious by-product of wheat milling, widely used as animal feed and in food industries.",
+    "description": "Nutritious by-product of wheat milling, widely used as animal feed and in food industries.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (40 kg / 50 kg PP bags)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "APEDA"],
+    "needsUniqueImage": true,
+    "featured": false,
+    "seo": {
+      "title": "Indian Wheat Bran Exporter | Feed & Food Grade | Mondal Export Import",
+      "description": "Clean, nutritious Indian wheat bran exported in bulk bags for livestock feed and food processing."
+    }
+  },
+  {
+    "slug": "corn-gluten-feed",
+    "name": "Corn Gluten Feed",
+    "category": "agriculture",
+    "image": "/products/4-1-1.webp",
+    "gallery": [],
+    "shortDescription": "High-quality by-product of corn milling, widely used as a nutritious animal feed ingredient.",
+    "description": "High-quality by-product of corn milling, widely used as a nutritious feed ingredient.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (50 kg bags / Bulk)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "APEDA"],
+    "needsUniqueImage": false,
+    "featured": false,
+    "seo": {
+      "title": "Corn Gluten Feed Exporter India | Mondal Export Import",
+      "description": "High-protein Indian corn gluten feed exported for dairy, cattle, and poultry nutrition."
+    }
+  },
+  {
+    "slug": "egg",
+    "name": "Egg",
+    "category": "agriculture",
+    "image": "/products/1-1-1.webp",
+    "gallery": [],
+    "shortDescription": "One of the most consumed animal-protein sources worldwide, valued for nutrition, versatility and affordability.",
+    "description": "One of the most consumed animal-protein sources worldwide, valued for nutrition, versatility and affordability.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (30-egg trays in 360-egg cartons)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "APEDA"],
+    "needsUniqueImage": false,
+    "featured": false,
+    "seo": {
+      "title": "Fresh Table Eggs Exporter India | Mondal Export Import",
+      "description": "Hygienically graded fresh Indian table eggs packed in export cartons for Middle East and Asian markets."
+    }
+  },
+  {
+    "slug": "mango",
+    "name": "Mango",
+    "category": "fruits",
+    "image": "/products/9-2-1.webp",
+    "gallery": [],
+    "shortDescription": "Sweet, aromatic Indian mangoes — the 'king of fruits' — hand-picked, graded and packed for export.",
+    "description": "Sweet, aromatic Indian mangoes — the \"king of fruits\" — hand-picked, graded and packed for export.",
+    "specs": {
+      "origin": "India (West Bengal & Major Belts)",
+      "packaging": "TBC (Ventilated CFB boxes)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF Air & Sea (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "APEDA"],
+    "needsUniqueImage": false,
+    "featured": true,
+    "seo": {
+      "title": "Fresh Indian Mango Exporter | Hand-Picked Export Grade | Mondal Export Import",
+      "description": "Sweet, aromatic Indian mangoes hand-picked, graded, and cold-chain packed for global buyers."
+    }
+  },
+  {
+    "slug": "banana",
+    "name": "Banana",
+    "category": "fruits",
+    "image": "/products/8-2-1.webp",
+    "gallery": [],
+    "shortDescription": "Fresh bananas harvested at export maturity for long shelf life and consistent international quality.",
+    "description": "Fresh bananas harvested at export maturity for long shelf life and consistent quality.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (13 kg / 18 kg CFB cartons)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF Reefer (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "APEDA"],
+    "needsUniqueImage": false,
+    "featured": true,
+    "seo": {
+      "title": "Fresh Indian Banana Exporter | Cavendish & Regional | Mondal Export Import",
+      "description": "Export-mature fresh Indian bananas packed in ventilated cartons for extended shelf life in Middle East & Asian markets."
+    }
+  },
+  {
+    "slug": "grapes",
+    "name": "Grapes",
+    "category": "fruits",
+    "image": "/products/7-2.webp",
+    "gallery": [],
+    "shortDescription": "Juicy, seedless and seeded table grapes sourced from trusted Indian vineyards for international export.",
+    "description": "Juicy, seedless/seeded table grapes sourced from trusted vineyards.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (Punnet / 5 kg cartons)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "APEDA"],
+    "needsUniqueImage": false,
+    "featured": true,
+    "seo": {
+      "title": "Fresh Indian Table Grapes Exporter | Mondal Export Import",
+      "description": "Juicy seedless and seeded Indian table grapes graded and pre-cooled for Europe, Middle East, and Asia."
+    }
+  },
+  {
+    "slug": "pomegranate",
+    "name": "Pomegranate",
+    "category": "fruits",
+    "image": "/products/6-2-1.webp",
+    "gallery": [],
+    "shortDescription": "Deep-red, antioxidant-rich Indian pomegranates with sweet-tart arils, graded for export.",
+    "description": "Deep-red, antioxidant-rich pomegranates with sweet-tart arils.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (3.5 kg / 5 kg CFB cartons)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "APEDA"],
+    "needsUniqueImage": false,
+    "featured": true,
+    "seo": {
+      "title": "Fresh Indian Pomegranate Exporter | Bhagwa Variety | Mondal Export Import",
+      "description": "Deep-red, sweet-tart Indian pomegranates packed in cushioned export boxes for global retail and wholesale."
+    }
+  },
+  {
+    "slug": "apple",
+    "name": "Apple",
+    "category": "fruits",
+    "image": "/products/4-2.webp",
+    "gallery": [],
+    "shortDescription": "Crisp, fresh apples graded by size and colour for premium international retail and wholesale markets.",
+    "description": "Crisp, fresh apples graded by size and colour for premium markets.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (Tray-packed CFB cartons)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "APEDA"],
+    "needsUniqueImage": false,
+    "featured": true,
+    "seo": {
+      "title": "Fresh Indian Apple Exporter | Graded Orchards | Mondal Export Import",
+      "description": "Crisp, size-graded fresh Indian apples supplied in protective export cartons."
+    }
+  },
+  {
+    "slug": "oranges",
+    "name": "Oranges",
+    "category": "fruits",
+    "image": "/products/10-1.webp",
+    "gallery": [],
+    "shortDescription": "Fresh, juicy Indian oranges rich in vitamin C, sorted and packed for export.",
+    "description": "Fresh, juicy oranges rich in vitamin C.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (Ventilated export cartons)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "APEDA"],
+    "needsUniqueImage": false,
+    "featured": false,
+    "seo": {
+      "title": "Fresh Indian Oranges Exporter | Citrus Export | Mondal Export Import",
+      "description": "Juicy, vitamin-C rich Indian oranges selected and packed for regional and international markets."
+    }
+  },
+  {
+    "slug": "litchi",
+    "name": "Litchi",
+    "category": "fruits",
+    "image": "/products/3-2.webp",
+    "gallery": [],
+    "shortDescription": "Sweet, fragrant Indian litchis (lychee) — a prized seasonal Indian speciality harvested for export.",
+    "description": "Sweet, fragrant litchis (lychee) — a seasonal Indian speciality.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (Pre-cooled cold-chain boxes)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF Air Freight (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "APEDA"],
+    "needsUniqueImage": false,
+    "featured": true,
+    "seo": {
+      "title": "Fresh Indian Litchi (Lychee) Exporter | Mondal Export Import",
+      "description": "Seasonal sweet and fragrant Indian litchis pre-cooled and packed for fast international air export."
+    }
+  },
+  {
+    "slug": "guava",
+    "name": "Guava",
+    "category": "fruits",
+    "image": "/products/2-2.webp",
+    "gallery": [],
+    "shortDescription": "Fresh Indian guavas, nutritious and aromatic, packed carefully to protect the fruit during transit.",
+    "description": "Fresh guavas, nutritious and aromatic, packed to protect the fruit.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (Foam-netted CFB boxes)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "APEDA"],
+    "needsUniqueImage": false,
+    "featured": false,
+    "seo": {
+      "title": "Fresh Indian Guava Exporter | Mondal Export Import",
+      "description": "Aromatic, crisp Indian guavas individually protected in foam sleeves for international export."
+    }
+  },
+  {
+    "slug": "pineapple",
+    "name": "Pineapple",
+    "category": "fruits",
+    "image": "/products/5-2.webp",
+    "gallery": [],
+    "shortDescription": "Sweet, tangy Indian pineapples, carefully selected and graded for international export.",
+    "description": "Sweet, tangy pineapples, carefully selected for export.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (Upright ventilated cartons)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "APEDA"],
+    "needsUniqueImage": false,
+    "featured": false,
+    "seo": {
+      "title": "Fresh Indian Pineapple Exporter | Mondal Export Import",
+      "description": "Sweet and tangy fresh Indian pineapples selected at ideal maturity for international shipping."
+    }
+  },
+  {
+    "slug": "raisins-kismis",
+    "name": "Raisins (Kismis)",
+    "category": "fruits",
+    "image": "/products/1-2.webp",
+    "gallery": [],
+    "shortDescription": "Premium Indian dried grapes (Kismis) — naturally sweet, clean and sorted for export.",
+    "description": "Premium dried grapes — naturally sweet, clean and sorted.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (10 kg / 15 kg vacuum-lined cartons)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "APEDA"],
+    "needsUniqueImage": false,
+    "featured": false,
+    "seo": {
+      "title": "Indian Raisins (Kismis) Exporter | Golden & Green | Mondal Export Import",
+      "description": "Clean, naturally sweet Indian raisins (Kismis) sorted and packed for wholesale, bakery, and retail export."
+    }
+  },
+  {
+    "slug": "potato",
+    "name": "Potato",
+    "category": "vegetables",
+    "image": "/products/3-3.webp",
+    "gallery": [],
+    "shortDescription": "Fresh Indian potatoes sourced from trusted farms, graded by size and packed for international export.",
+    "description": "Fresh potatoes sourced from trusted farms, graded and packed for export.",
+    "specs": {
+      "origin": "India (West Bengal & Major Belts)",
+      "packaging": "TBC (20 kg / 50 kg mesh & jute bags)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "APEDA"],
+    "needsUniqueImage": false,
+    "featured": true,
+    "seo": {
+      "title": "Fresh Indian Potato Exporter | West Bengal Potatoes | Mondal Export Import",
+      "description": "Firm, size-graded fresh Indian potatoes exported from West Bengal to Asia, Bangladesh, and Middle East."
+    }
+  },
+  {
+    "slug": "onion",
+    "name": "Onion",
+    "category": "vegetables",
+    "image": "/products/6-3-1.webp",
+    "gallery": [],
+    "shortDescription": "Export-quality Indian red and pink onions with good shelf life, strong flavour and dry outer skin.",
+    "description": "Export-quality onions with good shelf life and strong flavour.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (5 kg / 10 kg / 25 kg / 50 kg mesh bags)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "APEDA"],
+    "needsUniqueImage": false,
+    "featured": true,
+    "seo": {
+      "title": "Fresh Indian Onion Exporter | Red & Pink Onions | Mondal Export Import",
+      "description": "Pungent, cured export-grade Indian onions packed in breathable mesh bags for global markets."
+    }
+  },
+  {
+    "slug": "tomato",
+    "name": "Tomato",
+    "category": "vegetables",
+    "image": "/products/7-3.webp",
+    "gallery": [],
+    "shortDescription": "Firm, fresh Indian tomatoes harvested at optimal maturity for long-distance shipping and shelf life.",
+    "description": "Firm, fresh tomatoes harvested for long-distance shipping.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (Ventilated crates / CFB cartons)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "APEDA"],
+    "needsUniqueImage": false,
+    "featured": true,
+    "seo": {
+      "title": "Fresh Indian Tomato Exporter | Export Grade | Mondal Export Import",
+      "description": "Firm, farm-fresh Indian tomatoes carefully graded and packed for cross-border and sea/air shipments."
+    }
+  },
+  {
+    "slug": "cabbage",
+    "name": "Cabbage",
+    "category": "vegetables",
+    "image": "/products/2-3.webp",
+    "gallery": [],
+    "shortDescription": "Fresh, compact Indian cabbage heads, graded and packed to preserve crispness and freshness.",
+    "description": "Fresh, compact cabbage heads, graded and packed to preserve freshness.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (Mesh bags / Ventilated cartons)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "APEDA"],
+    "needsUniqueImage": false,
+    "featured": false,
+    "seo": {
+      "title": "Fresh Indian Cabbage Exporter | Mondal Export Import",
+      "description": "Crisp, compact Indian green cabbage heads packed for international export."
+    }
+  },
+  {
+    "slug": "cauliflower",
+    "name": "Cauliflower",
+    "category": "vegetables",
+    "image": "/products/8-3.webp",
+    "gallery": [],
+    "shortDescription": "Fresh, white, firm Indian cauliflower curds sourced from trusted farms and packed for export.",
+    "description": "Fresh, white, firm cauliflower from trusted farms.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (Cold-chain cartons)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "APEDA"],
+    "needsUniqueImage": true,
+    "featured": false,
+    "seo": {
+      "title": "Fresh Indian Cauliflower Exporter | Mondal Export Import",
+      "description": "Snow-white, tight-curd Indian cauliflower harvested and pre-cooled for export."
+    }
+  },
+  {
+    "slug": "drum-stick",
+    "name": "Drum Stick",
+    "category": "vegetables",
+    "image": "/products/8-3.webp",
+    "gallery": [],
+    "shortDescription": "Fresh Indian moringa drumsticks, nutrient-rich and popular across Asian and Middle-Eastern cuisines.",
+    "description": "Fresh moringa drumsticks, nutrient-rich and popular in Asian and Middle-Eastern cuisine.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (Ventilated CFB cartons)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF Air Freight (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "APEDA"],
+    "needsUniqueImage": true,
+    "featured": false,
+    "seo": {
+      "title": "Fresh Moringa Drumstick Exporter India | Mondal Export Import",
+      "description": "Tender, nutrient-rich Indian moringa drumsticks exported via air and sea to the Middle East, Asia, and Europe."
+    }
+  },
+  {
+    "slug": "green-chilli",
+    "name": "Green Chilli",
+    "category": "vegetables",
+    "image": "/products/4-3.webp",
+    "gallery": [],
+    "shortDescription": "Fresh, pungent Indian green chillies (G4 / Teja / regional varieties), sorted and packed for export.",
+    "description": "Fresh, pungent green chillies, sorted and packed for export.",
+    "specs": {
+      "origin": "India (West Bengal & Major Belts)",
+      "packaging": "TBC (3 kg / 5 kg ventilated cartons)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF Air & Reefer (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "APEDA"],
+    "needsUniqueImage": false,
+    "featured": true,
+    "seo": {
+      "title": "Fresh Indian Green Chilli Exporter | Mondal Export Import",
+      "description": "Crisp, pungent fresh Indian green chillies packed in ventilated export boxes for Middle East, Europe, and Asia."
+    }
+  },
+  {
+    "slug": "bell-pepper-capsicum",
+    "name": "Bell Pepper (Capsicum)",
+    "category": "vegetables",
+    "image": "/products/WhatsApp-Image-2026-05-26-at-11.56.35-AM.jpeg",
+    "gallery": [],
+    "shortDescription": "Colourful, crisp capsicum (bell peppers), carefully selected and packed for international freshness.",
+    "description": "Colourful, crisp capsicum, carefully selected for freshness.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (Cushioned CFB cartons)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "APEDA"],
+    "needsUniqueImage": false,
+    "featured": true,
+    "seo": {
+      "title": "Fresh Capsicum (Bell Pepper) Exporter India | Mondal Export Import",
+      "description": "Crisp red, yellow, and green Indian capsicum packed for export quality freshness."
+    }
+  },
+  {
+    "slug": "turmeric",
+    "name": "Turmeric",
+    "category": "spices",
+    "image": "/products/10-3.webp",
+    "gallery": [],
+    "shortDescription": "Vibrant, high-curcumin Indian turmeric — whole fingers or ground powder — authentic and fresh.",
+    "description": "Vibrant, high-curcumin turmeric — whole fingers or powder — authentic and fresh.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (25 kg / 50 kg PP & Jute bags)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "Spice Board"],
+    "needsUniqueImage": false,
+    "featured": true,
+    "seo": {
+      "title": "Indian Turmeric Exporter | Whole Fingers & Powder | Mondal Export Import",
+      "description": "Spice Board registered Indian exporter of high-curcumin turmeric fingers and powder for global food and spice buyers."
+    }
+  },
+  {
+    "slug": "dry-red-chilli",
+    "name": "Dry Red Chilli",
+    "category": "spices",
+    "image": "/products/1-5.webp",
+    "gallery": [],
+    "shortDescription": "Sun-dried Indian red chillies with bold colour and pungency, graded with or without stem.",
+    "description": "Sun-dried red chillies with bold colour and heat.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (10 kg / 25 kg cartons & gunny bags)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "Spice Board"],
+    "needsUniqueImage": false,
+    "featured": true,
+    "seo": {
+      "title": "Indian Dry Red Chilli Exporter | Whole & Crushed | Mondal Export Import",
+      "description": "Sun-dried Indian red chillies with rich ASTA colour and natural pungency exported worldwide."
+    }
+  },
+  {
+    "slug": "black-pepper",
+    "name": "Black Pepper",
+    "category": "spices",
+    "image": "/products/9.webp",
+    "gallery": [],
+    "shortDescription": "Pungent, aromatic Indian black peppercorns — the 'king of spices' — cleaned and graded for export.",
+    "description": "Pungent, aromatic black peppercorns, the \"king of spices\".",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (25 kg / 50 kg bags)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "Spice Board"],
+    "needsUniqueImage": false,
+    "featured": true,
+    "seo": {
+      "title": "Indian Black Pepper Exporter | Whole Peppercorns | Mondal Export Import",
+      "description": "Bold, high-piperine Indian black peppercorns cleaned and sorted for global spice importers."
+    }
+  },
+  {
+    "slug": "cumin-seed",
+    "name": "Cumin Seed",
+    "category": "spices",
+    "image": "/products/6.webp",
+    "gallery": [],
+    "shortDescription": "Earthy, aromatic Indian cumin seeds (Jeera), machine-cleaned and sorted for international culinary markets.",
+    "description": "Earthy, aromatic cumin seeds, cleaned and sorted.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (25 kg / 50 kg PP & Paper bags)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "Spice Board"],
+    "needsUniqueImage": false,
+    "featured": true,
+    "seo": {
+      "title": "Indian Cumin Seed (Jeera) Exporter | Mondal Export Import",
+      "description": "Sortex-cleaned, high-oil Indian cumin seeds exported in private label or bulk packaging."
+    }
+  },
+  {
+    "slug": "coriander-seed",
+    "name": "Coriander Seed",
+    "category": "spices",
+    "image": "/products/3.webp",
+    "gallery": [],
+    "shortDescription": "Fragrant Indian coriander seeds with a warm, citrusy flavour profile for spice grinders and food processors.",
+    "description": "Fragrant coriander seeds with a citrusy, warm flavour.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (25 kg / 50 kg bags)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "Spice Board"],
+    "needsUniqueImage": false,
+    "featured": true,
+    "seo": {
+      "title": "Indian Coriander Seed (Dhania) Exporter | Mondal Export Import",
+      "description": "Whole and split Indian coriander seeds with bright aroma and high essential oil content."
+    }
+  },
+  {
+    "slug": "cardamom",
+    "name": "Cardamom",
+    "category": "spices",
+    "image": "/products/7-5.webp",
+    "gallery": [],
+    "shortDescription": "Aromatic Indian green cardamom pods — the 'queen of spices' — size-graded for export.",
+    "description": "Aromatic green cardamom pods, the \"queen of spices\".",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (5 kg / 10 kg moisture-barrier cartons)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "Spice Board"],
+    "needsUniqueImage": false,
+    "featured": true,
+    "seo": {
+      "title": "Indian Green Cardamom Exporter | Bold Pods | Mondal Export Import",
+      "description": "Richly aromatic Indian green cardamom pods graded by 6mm–8mm+ pod size for Middle East, Europe, and Asia."
+    }
+  },
+  {
+    "slug": "clove",
+    "name": "Clove",
+    "category": "spices",
+    "image": "/products/clove.jpg",
+    "gallery": [],
+    "shortDescription": "Intensely aromatic dried clove buds rich in natural essential oils, selected for export.",
+    "description": "Intensely aromatic dried clove buds.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (25 kg / 50 kg bags)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "Spice Board"],
+    "needsUniqueImage": false,
+    "featured": false,
+    "seo": {
+      "title": "Dried Clove Buds Exporter India | Mondal Export Import",
+      "description": "Hand-sorted, oil-rich whole dried clove buds supplied for international culinary and extract buyers."
+    }
+  },
+  {
+    "slug": "mustard-seeds",
+    "name": "Mustard Seeds",
+    "category": "spices",
+    "image": "/products/2.webp",
+    "gallery": [],
+    "shortDescription": "Pungent yellow and brown Indian mustard seeds for culinary spice blends and oil extraction.",
+    "description": "Pungent yellow/brown mustard seeds for spice and oil.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (25 kg / 50 kg PP bags)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "Spice Board"],
+    "needsUniqueImage": true,
+    "featured": false,
+    "seo": {
+      "title": "Indian Mustard Seeds Exporter | Yellow & Brown | Mondal Export Import",
+      "description": "Clean yellow and brown Indian mustard seeds supplied for global spice processing and cold-pressed oil production."
+    }
+  },
+  {
+    "slug": "fenugreek-seeds",
+    "name": "Fenugreek Seeds",
+    "category": "spices",
+    "image": "/products/WhatsApp-Image-2026-05-26-at-11.17.37-AM.jpeg",
+    "gallery": [],
+    "shortDescription": "Slightly bitter, aromatic Indian fenugreek (methi) seeds, cleaned and sorted for culinary and herbal use.",
+    "description": "Slightly bitter, aromatic fenugreek (methi) seeds.",
+    "specs": {
+      "origin": "India",
+      "packaging": "TBC (25 kg / 50 kg bags)",
+      "moq": "TBC",
+      "privateLabel": true,
+      "incoterms": "FOB / CIF (TBC)"
+    },
+    "certifications": ["ISO 9001:2015", "FSSAI", "Spice Board"],
+    "needsUniqueImage": false,
+    "featured": false,
+    "seo": {
+      "title": "Indian Fenugreek Seeds (Methi) Exporter | Mondal Export Import",
+      "description": "Golden, aromatic Indian fenugreek seeds cleaned to export purity standards."
+    }
+  }
+]

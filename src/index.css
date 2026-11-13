@@ -1,0 +1,87 @@
+@import "tailwindcss";
+
+@theme {
+  --color-forest: #0F3D2E;
+  --color-forest-deep: #09271D;
+  --color-leaf: #2E8B57;
+  --color-gold: #E0A526;
+  --color-gold-hover: #C9911A;
+  --color-cream: #FAF7F0;
+  --color-cream-dark: #F1ECE0;
+  --color-charcoal: #1B1B1B;
+  --color-spice: #C0392B;
+
+  --font-serif: "Fraunces", Georgia, Cambria, serif;
+  --font-sans: "DM Sans", -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+    scroll-behavior: smooth;
+    background-color: #FAF7F0;
+    color: #1B1B1B;
+  }
+
+  h1, h2, h3, .font-display {
+    font-family: var(--font-serif);
+  }
+
+  .tabular-nums {
+    font-variant-numeric: tabular-nums;
+  }
+
+  :focus-visible {
+    outline: 2px solid #E0A526;
+    outline-offset: 2px;
+  }
+}
+
+.paper-grain {
+  background-image: radial-gradient(rgba(15, 61, 46, 0.04) 1px, transparent 0);
+  background-size: 24px 24px;
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+
+@keyframes marquee-scroll {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-marquee {
+  animation: marquee-scroll 36s linear infinite;
+}
+
+.animate-marquee:hover {
+  animation-play-state: paused;
+}
+
+@keyframes ken-burns {
+  0% {
+    transform: scale(1) translate3d(0, 0, 0);
+  }
+  100% {
+    transform: scale(1.08) translate3d(-1%, -1%, 0);
+  }
+}
+
+.animate-ken-burns {
+  animation: ken-burns 14s ease-out forwards;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
